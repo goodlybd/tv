@@ -25,6 +25,8 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFKBNjwP/Ptvsportslogo2023.webp" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",PTV
 https://flussonic.defineatoz.com/PTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Willow Sports
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Bein Sports 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/FzGdttZ1/20250120_193818.png",Bein Sports 2
@@ -35,5 +37,7 @@ https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/B6TPgPPT/20250120_193903.png",Bein Sports 5
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN6PHrKZ/20240823_023950.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",National Geographic HD
+https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn6Gyrqn/20240823-024051.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲", Travel XP HD
 http://103.159.180.34:5001/live/562.m3u8
