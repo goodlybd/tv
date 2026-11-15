@@ -126,8 +126,6 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnSQC8xm/unnamed.jpg" group-title="𝐌𝐮𝐬𝐢𝐜",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/4ythzNmp/KLrf-KRn.png",8XM
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="𝐌𝐮𝐬𝐢𝐜",yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="𝐌𝐮𝐬𝐢𝐜",Hindi Hits HD
@@ -178,6 +176,8 @@ https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvPTkPjH/IJH47f-J.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN6PHrKZ/20240823_023950.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",National Geographic HD
+https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh2Cwrgr/20240823-024003.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",National Wild HD
 http://202.70.146.135:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Love Natural
