@@ -88,8 +88,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla2/default/main.mpd?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0N2VWksB/channels4-profile.jpg" group-title="𝐌𝐮𝐬𝐢𝐜",B4U Music
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
-#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/4ythzNmp/KLrf-KRn.png",8XM
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNHzD5Zg/s143563-ld-h15-aa.png" group-title="𝐌𝐮𝐬𝐢𝐜",Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/d1pkfnGy/s143757-ld-h15-aa.png",Sangeet Bhojpuri

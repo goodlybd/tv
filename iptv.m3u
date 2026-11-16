@@ -126,6 +126,8 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnSQC8xm/unnamed.jpg" group-title="𝐌𝐮𝐬𝐢𝐜",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/4ythzNmp/KLrf-KRn.png",8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="𝐌𝐮𝐬𝐢𝐜",yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="𝐌𝐮𝐬𝐢𝐜",Hindi Hits HD
